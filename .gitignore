@@ -10,3 +10,5 @@ package-hooks/
 app-settings.json
 .idea/
 .io-config.json
+GoogleService-Info.plist
+google-services.json

@@ -1,7 +1,7 @@
 {
-  "name": "edu.berkeley.eecs.embase",
+  "name": "com.aware.plugin.cmu.sup",
   "version": "1.2.1",
-  "displayName": "emTripLog",
+  "displayName": "emTripLog-v",
   "cordova": {
     "platforms": [
       "ios",
